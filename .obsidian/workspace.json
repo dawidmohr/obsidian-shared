@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "e37ca448c18778d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c856d180bd4ab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a658c91d6894b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c56ef441fcf9d8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c81eb52b120ea47b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa9007e4916cb0bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a983be091e812e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cced6b857630b60d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8df396c3b6f52082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70578ed5401ce684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa33189e3de11141",
+    "type": "split",
+    "children": [
+      {
+        "id": "42407430f0892c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5606274c064e5edb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a150fad65b9096b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1853da669b8fac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9f5b2e2c877d5df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c81eb52b120ea47b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Organizacje",
+    "WCAG.md",
+    "WAI.md",
+    "Organizacje/W3C.md"
+  ]
+}

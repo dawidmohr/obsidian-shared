@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21c856d180bd4ab1",
+        "id": "3d00952c501db4a6",
         "type": "tabs",
         "children": [
           {
-            "id": "07a658c91d6894b4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c56ef441fcf9d8b2",
+            "id": "99a88c9919ac1382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAI.md",
+                "file": "WCAG.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c81eb52b120ea47b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WCAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WCAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WCAG.md"
+              }
             }
           }
         ]
@@ -159,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c81eb52b120ea47b",
+  "active": "99a88c9919ac1382",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Organizacje",
-    "WCAG.md",
     "WAI.md",
-    "Organizacje/W3C.md"
+    "WCAG.md",
+    "Psychologia/Osoba dysfunkcyjna.md",
+    "Organizacje/W3C.md",
+    "osoba.md",
+    "Psychologia",
+    "Organizacje"
   ]
 }
